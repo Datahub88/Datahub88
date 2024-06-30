@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Ahsan!!
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Analytical tools like Sql,Excel and PowerBI
+- 🌱 I’m currently in the learning Data Analysis Journey
 - 💞️ I’m looking to collaborate on data projects
 - 📫 How to reach me at here on Github 
 - 😄 Pronouns: He
-- ⚡ Fun fact: Analytically I am funny!!
+
+
 
 
 ## 🌐 Socials:
@@ -20,10 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=datahub88&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=datahub88&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
