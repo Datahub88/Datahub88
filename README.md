@@ -2,10 +2,7 @@ Hi, I'm Ahsan 👋
 
 Aspiring GRC & Compliance Analyst (Transitioning) | Security+ | Google Cybersecurity | Azure AZ-900 | MBA | IRS Enrolled Agent
 
-I bring 10+ years of experience in financial compliance, tax law, and regulatory frameworks — now transitioning into cybersecurity GRC. As a federally licensed Enrolled Agent and MBA 
-
-graduate (University of Phoenix) with a B.Com from the University of Karachi, I understand how compliance, risk, and audit processes work from the inside. Currently building hands-on 
-
+I bring 10+ years of experience in financial compliance, tax law, and regulatory frameworks — now transitioning into cybersecurity GRC. As a federally licensed Enrolled Agent and MBA graduate (University of Phoenix) with a B.Com from the University of Karachi, I understand how compliance, risk, and audit processes work from the inside. Currently building hands-on 
 technical projects to complement my certifications with real-world depth.
 
 ---
@@ -65,12 +62,14 @@ Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-Network_Scanning-0E83CD?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
 Cloud & Platforms
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+
 Data & Analysis
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
