@@ -1,6 +1,6 @@
 Hi, I'm Ahsan 👋
 
-Lead Tax Compliance Analyst | Security+ | Google Cybersecurity | Azure AZ-900 | MBA | IRS Enrolled Agent
+Aspiring GRC & Compliance Analyst (Transitioning) | Security+ | Google Cybersecurity | Azure AZ-900 | MBA | IRS Enrolled Agent
 
 I bring 10+ years of experience in financial compliance, tax law, and regulatory frameworks — now transitioning into cybersecurity GRC. As a federally licensed Enrolled Agent and MBA 
 
@@ -18,7 +18,7 @@ technical projects to complement my certifications with real-world depth.
 
 🏛️ IRS Enrolled Agent — federally licensed, deep expertise in financial fraud & compliance
 
-🎓 MBA | B.S. in Accounting
+🎓 MBA (University of Phoenix) | B.Com — University of Karachi
 
 🔭 Currently building: Home Lab SIEM with Wazuh — real threat detection across a virtualized Windows/Kali network
 
